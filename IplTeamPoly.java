@@ -7,11 +7,8 @@ String associatePartners;
 String captainName;
 int noOfTitles;
 
-public IplTeamPoly(){
-System.out.println(this.getClass().getSimpleName()+" object is created");
-}
 public void bestTeamInIpl(){
-System.out.println("IPL is held in  -- " +location+"\n");
+System.out.println("IPL is held in  -- " +location);
 }
 public void iplForEntertainment(){
 System.out.println("Incredible premier leauge");
