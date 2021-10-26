@@ -1,0 +1,30 @@
+object oriented programming system/structure.
+class -- compile time
+object -- run time
+object -- multiple copies of class or instance of a class.
+class-- is a basic design or a blueprint that contains states or properties, variables behaviours.
+behaviour -- methods ..
+
+syntax of creating an object -(for instance variable only)
+                                                    ClassName refrenceVariable = new ClasssName ();
+                                                        refrenceVariable.variableName= --- ;
+eg.-- pen
+instance variables gets placed inside objects while static outside objects.
+object is hold by refrence variable and gets resided in java memory.
+variables gets initalized twice once with default value and other with user values.
+inside referencevariable the values gets stored.
+println and main are inbuilt methods.
+members or building "blocks of class are variables , methods,blocks,constructor."
+
+**3 Ways to initialize object
+There are 3 ways to initialize object in Java.
+1.By reference variable
+2.By method
+3.By constructor
+
+**There are many ways to create an object in java. They are:
+1.By new keyword
+2.By newInstance() method
+3.By clone() method
+4.By deserialization
+5.By factory method etc.
